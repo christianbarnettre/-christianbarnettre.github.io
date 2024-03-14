@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://christianbarnettre.github.io/sitemap.xml
